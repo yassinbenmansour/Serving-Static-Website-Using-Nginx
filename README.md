@@ -5,7 +5,6 @@ A complete guide to deploying a static website with **NGINX on Ubuntu**, featuri
 ---
 
 ## 📂 Project Repository
-**GitHub:** [static-site](https://github.com/jaiswaladi246/static-site.git)  
 **Live Demo:** [143.110.171.150](http://143.110.171.150)
 
 ---
